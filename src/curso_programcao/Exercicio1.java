@@ -14,5 +14,7 @@ public class Exercicio1 {
 		
 		int soma = n1 + n2;
 		System.out.println("SOMA: " + soma);
+		
+		sc.close();
 	}
 }
