@@ -16,6 +16,8 @@ public class Exercicio7 {
 		else {
 			System.out.println("ÍMPAR");
 		}
+		
+		sc.close();
 	}
 
 }
