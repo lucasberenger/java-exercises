@@ -16,6 +16,8 @@ public class Exercicio6 {
 		else {
 			System.out.println("POSITIVO");
 		}
+		
+		sc.close();
 	}
 
 }
