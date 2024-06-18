@@ -1,5 +1,5 @@
 # Theory
-*.teoria
+*.src/teoria
 # Compiled class file
 *.class
 
